@@ -1,0 +1,28 @@
+{
+  "name": "nginx-executor",
+  "version": "0.1.0",
+  "description": "nginx executor",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "test",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btconfig/nginx-executor.git"
+  },
+  "keywords": [
+    "nginx"
+  ],
+  "author": "btconfig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btconfig/nginx-executor/issues"
+  },
+  "homepage": "https://github.com/btconfig/nginx-executor#readme"
+}
